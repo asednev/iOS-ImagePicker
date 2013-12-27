@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePicker", "ImagePicker\ImagePicker.csproj", "{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Release|iPhone.Build.0 = Release|iPhone
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DA637EB5-4FC0-45FA-9A0A-D18AB7143820}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ImagePicker\ImagePicker.csproj
+	EndGlobalSection
+EndGlobal
